@@ -130,60 +130,14 @@ CBC News Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美国Bowie TV,http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-CNN NEWS,http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
-BBC World News,http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
-SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-SKY News,http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
-Sky News Australia,https://austchannel-live.akamaized.net/hls/live/2002729/austchannelnews/master1280x720.m3u8
-Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
-Al Jazeera,http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-Al Jazeera,http://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycclive/zh/domestic/playlist.m3u8
-NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
-NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wi_s.m3u8
-France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-ABC News HD,http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
-ABC News,http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 Deutsche Welle (En),https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-NBC,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-CBS,http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-CBS,http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 CBS News,http://www.cbsnews.com/common/video/dai_prod.m3u8
 CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CBS News,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_2200.m3u8
 CBN,http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 CNA(ChannelNewsAsia),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN Turkiye,http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 TV Chosun,http://live.chosun.gscdn.com/live/definst/tvchosun1.stream/playlist.m3u8
-TV Chosun,http://live.chosun.gscdn.com/live/definst/tvchosun1.stream/chunklist.m3u8
-TV Chosun,http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-VOA,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 ET Now,http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-BloomBerg,http://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-Bloomberg TV,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/SourceUSTV-1000-1_live.m3u8
 Bloomberg USA,http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/SourceUSTV-1000-1_live.m3u8
-Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-Bloomberg TV,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-Bloomberg,https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-Bloomberg USA,http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-Bloomberg Asia,https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo1/Source-APTVqvs-1000-1_live.m3u8
-Bloomberg Australia,https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWStokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-Bloomberg Europe,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/SourceEUTVqvs-1000-1_live.m3u8
-Bloomberg US,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-Israel 24,https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central1/5377161796001/profile_0/chunklist_dvr.m3u8
-India Today,https://feeds.intoday.in/hltapps/api/master.m3u8
-Mirror Now,https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-NDTV 24X7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-RT International,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-RT US,http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8
-RT UK,http://rt-uk.secure.footprint.net:80/1106_2500Kb.m3u8
+Bloomberg USA,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Telesur (En),https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
