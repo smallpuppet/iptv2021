@@ -130,3 +130,4 @@ CBC News Canada,http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p
 FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美国Bowie TV,http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+CNN NEWS,http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
