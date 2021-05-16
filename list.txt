@@ -1,11 +1,11 @@
 央视频道,#genre#
-CCTV1HD(综合),http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
-CCTV-1蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-CCTV-1蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
-CCTV-1综合,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
-CCTV中国中央电视台-1 综合,http://117.169.120.140:8080/live/cctv-1/.m3u8
-CCTV中国中央电视台-1 综合,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
-CCTV中国中央电视台-1 综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-1,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
+CCTV-1,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
+CCTV-1,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+CCTV-1,http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+CCTV-1,http://117.169.120.140:8080/live/cctv-1/.m3u8
+CCTV-1,http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
+CCTV-1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
 CCTV-2,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
 CCTV-2,http://117.169.120.140:8080/live/cctv-2/.m3u8
@@ -14,23 +14,22 @@ CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-2,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
 CCTV-2,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
-CCTV-3HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-CCTV3HD(综艺),http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
-CCTV 3,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-CCTV-3蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
-CCTV-3蓝光2,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
-CCTV-3综艺,http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
-CCTV中国中央电视台-3 综艺,http://117.169.120.140:8080/live/cctv-3/.m3u8
-CCTV中国中央电视台-3 综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV 4,https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-CCTV4(国际),http://125.210.152.18:9090/live/CCTV4.m3u8
-CCTV-4国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV-4蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
-CCTV-4蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
-CCTV-4蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
-CCTV-4美洲,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
-CCTV-4中文国际,http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
-CCTV中国中央电视台-4 中文国际,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV-3,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-3,http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV-3,http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+CCTV-3,http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+CCTV-3,http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+CCTV-3,http://117.169.120.140:8080/live/cctv-3/.m3u8
+CCTV-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4(欧洲),https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+CCTV-4(美洲),https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
+CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
+CCTV-4,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
+CCTV-4,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV-4,http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+CCTV-4,http://117.169.120.140:8080/live/cctv-4/.m3u8
 CCTV5HD(体育),http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
 CCTV-5蓝光3,http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?
 CCTV-5体育,http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
