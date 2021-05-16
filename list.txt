@@ -142,3 +142,4 @@ Bloomberg USA,http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-vi
 Bloomberg USA,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Telesur (En),https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 BBC,https://1636691764.rsc.cdn77.org/TwjUsKIoDQpNoc9dxB3e_A==,1621160613/LS-ATL-54548-11/index.m3u8
+BBC,https://1636691764.rsc.cdn77.org/TwjUsKIoDQpNoc9dxB3e_A==,1621160613/LS-ATL-54548-11/index.m3u8
