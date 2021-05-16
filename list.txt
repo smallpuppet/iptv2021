@@ -108,3 +108,122 @@ CCTV-17,http://111.12.102.68:6610/PLTV/77777777/224/3221225513/index.m3u8?
 CCTV-17,http://111.12.102.68:6610/PLTV/77777777/224/3221225833/index.m3u8?
 CCTV-17,http://111.12.102.68:6610/PLTV/77777777/224/3221225766/index.m3u8?
 CCTV-17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+北美频道,#genre#
+ABC 2 Baton Rouge LA (WBRZ-HD) (720p),http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+ABC 7 Denver (KMGH) (720p),https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+ABC 7 Detroit (WXYZ-TV) (720p),https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live
+ABC 7 Sarasota FL (WWSB) (720p),https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+ABC 9 Chattanooga TN (WTVC) (720p),https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+ABC 15 (720p),https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+ABC Albania,https://tv2.abcnews.al/live/abcnews/chunks.m3u8
+ABC Albania,https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+ABC Comedy,https://c.mjh.nz/abc2/
+ABC Darwin AU,https://c.mjh.nz/101002810281/
+ABC [Geo-blocked],https://c.mjh.nz/101002210221/
+AB Channel,https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+ABC Hobart AU,https://c.mjh.nz/101002710271/
+ABC,https://c.mjh.nz/101002510251/
+ABC Kids,https://c.mjh.nz/101002210222/
+ABC Me,https://c.mjh.nz/101002210224/
+ABC Melbourne AU,https://c.mjh.nz/101002310231/
+ABC News | 1,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+ABC News | 2,https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+ABC News | 3,https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+ABC News | 4,https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+ABC News | 5,https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+ABC News | 6,https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+ABC News | 7,https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+ABC News | 8,https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+ABC News | 9,https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+ABC News | 10,https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+ABC News [Geo-blocked],https://c.mjh.nz/101002210220/
+ABC News,http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Perth AU,https://c.mjh.nz/3201026102E1/
+ABC TV HD,https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8
+ABC TV,http://edge9-sl.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000.m3u8
+ABC TV,https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+CNBC Arabiya (720p),https://hiplayer.hibridcdn.net/p/cnbcarabia-live
+CNBC Awaaz,https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+CNBC Awaaz,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+CNBC Awaaz SD,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+CNBC Bajar,https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+CNBC TV18,https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNN International (720p),https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+CNN International,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+CNN International (美国),https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+CNN-News18,https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+CNN (Pluto TV),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+FOX Crime,https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+FOX,https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+Fox,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+Fox Life,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+Fox Life Russia (576p),http://51.68.140.190:8081/tv/fox-life/playlist.m3u8
+FOX Movies,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+Fox Movies [Vietnam],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+FOX MUSIC,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+Fox News (720p),https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox News Radio (192p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+Fox Russia,http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+FOX Soul,http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+Fox Sports 2 Asia (720p),https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3 Asia (720p),https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+Fox Sports Asia (720p),https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+FOX Sports HD 1 (720p),https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+FOX Sports (Pluto TV),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+FOX [Vietnam],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
+FOX [Vietnam],http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+EWTN Canada (720p),https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+EWTN CANADA,http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+EWTN Canada,https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+EWTN,https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_480x270_350k.m3u8
+EWTN katholisches TV (720p),https://d3j0n5al39mfyd.cloudfront.net/p/GERG.m3u8
+CNBC Arabiya (720p),https://hiplayer.hibridcdn.net/p/cnbcarabia-live
+CNBC Awaaz,https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+CNBC Awaaz,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+CNBC Awaaz SD,https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+CNBC Bajar,https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+CNBC TV18,https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+CNBC TV18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+NBC 15 Madison WI (WMTVNBC) (720p),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+NBC 26 (WGBA) (720p),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
+NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
+NBCLX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
+NBC News Now (1080p),https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+NBC News Now | HD,https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+NBC News Now | Source 1,https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+NBC News Now | Source 2,https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+加拿大CBC News (VOD),http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+加拿大CME 财经一号,http://69.57.222.151:8082/45/stream.m3u8
+加拿大The Shopping Channel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+美国360 North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+美国 Ⅰ 布兰奇电视,http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+美国 Ⅰ 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国Bloomberg TV Europe,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+美国Bowie TV,http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+美国Buffalo TV,http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+美国Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+美国Free IPTV,http://stream.srg-ssr.ch/m/rsj/mp3_128
+美国July.12.2018,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+美国l 美国中央台,http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+美国Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国TVW2,http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+美国本土Channel 11 News WPXI (Pittsburgh),http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+美国  狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+美国购物QVC Beauty TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+美国购物QVC TV HD UK,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+美国切达电视,http://live.chdrstatic.com/cbn/primary/3.m3u8
+美国切达电视,https://live.chdrstatic.com/cheddar/primary/4.m3u8
+美国新闻ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
