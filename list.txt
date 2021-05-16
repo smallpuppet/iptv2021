@@ -32,15 +32,15 @@ CCTV-4,http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
 CCTV-4,http://117.169.120.140:8080/live/cctv-4/.m3u8
 CCTV-5,http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?
 CCTV-5,http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
-CCTV5+HD（体育赛事),http://125.210.152.18:9090/live/TYSSHD_H265.m3u8
-CCTV5+高清,http://39.134.65.89:80/wh7f454c46tw1784707858_1577868271/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1554599557&from=1&hms_devid=134
-CCTV-5+蓝光1,http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
-CCTV-5+蓝光2,http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
-CCTV-5+蓝光,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV-5+HD,http://39.134.65.2:80/wh7f454c46tw1753176804_334703569/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1554599525&from=1&hms_devid=11
-CCTV-5+体育赛事,http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-CCTV中国中央电视台-5+ 体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-5+,http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?
+CCTV-5+,http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?
+CCTV-5+,http://39.134.65.89:80/wh7f454c46tw1784707858_1577868271/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1554599557&from=1&hms_devid=134
+CCTV-5+,http://125.210.152.18:9090/live/TYSSHD_H265.m3u8
+CCTV-5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV-5+,http://39.134.65.2:80/wh7f454c46tw1753176804_334703569/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1554599525&from=1&hms_devid=11
+CCTV-5+,http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+CCTV-5+,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV6HD(电影),http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
 CCTV-6电影,http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
 CCTV-6蓝光1,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
